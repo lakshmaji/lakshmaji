@@ -80,18 +80,19 @@ Hi there 👋 my self Lakshmaji, having experience in working on mobile, web and
 [![hacker_earth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@lakshmajee88)
 
 
+
+![Open Source Contributions](https://user-images.githubusercontent.com/14037682/123518565-0de55700-d6c4-11eb-8650-349395ce56ad.gif)
+<pre>
+<a href="https://github.com/hitz-group/xml-escpos-helper" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123518319-ffe30680-d6c2-11eb-9b5a-676fe8f26cb7.png" width="35%" /></a> <a href="https://github.com/anthonyjgrove/react-google-login" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513039-71fa2200-d6a8-11eb-8f3e-471695e6a8af.png" width="35%" /></a> <a href="https://github.com/hitz-group/dynamo-helper" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513044-7c1c2080-d6a8-11eb-8df9-ad45a104cd0a.png" width="35%" /></a> <a href="https://github.com/hitz-group/rn-receipt-printer-utils" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513048-81796b00-d6a8-11eb-8cf7-f98829f57a4d.png" width="35%" /></a>
+</pre>
+
+
 ![Own Open source contributions](https://user-images.githubusercontent.com/14037682/123518566-0f168400-d6c4-11eb-9c18-be631544a03b.gif)
 <pre>
 <a href="https://github.com/lakshmaji/navigation" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513117-de752100-d6a8-11eb-80a0-5644b0368242.gif" width="32%" /></a> <a href="https://github.com/lakshmaji/Thumbnail" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513031-67d82380-d6a8-11eb-92ab-9e6dd98bd0a0.png" width="32%" /></a> <a href="https://github.com/lakshmaji/twilio" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513033-6a3a7d80-d6a8-11eb-8a4f-07290acb3955.png" width="32%" /></a>
 </pre>
 <pre>
 <a href="https://github.com/lakshmaji/repository" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513037-6f97c800-d6a8-11eb-8c2f-248458624356.png" width="32%" /></a> <a href="https://github.com/lakshmaji/exceptions" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513270-e08baf80-d6a9-11eb-8fa0-bf55d498c7f0.png" width="32%" /></a> <a href="https://github.com/lakshmaji/validators" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513029-64dd3300-d6a8-11eb-8fba-442fcc8f1844.png" width="32%" /></a> 
-</pre>
-
-
-![Open Source Contributions](https://user-images.githubusercontent.com/14037682/123518565-0de55700-d6c4-11eb-8650-349395ce56ad.gif)
-<pre>
-<a href="https://github.com/hitz-group/xml-escpos-helper" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123518319-ffe30680-d6c2-11eb-9b5a-676fe8f26cb7.png" width="35%" /></a> <a href="https://github.com/anthonyjgrove/react-google-login" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513039-71fa2200-d6a8-11eb-8f3e-471695e6a8af.png" width="35%" /></a> <a href="https://github.com/hitz-group/dynamo-helper" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513044-7c1c2080-d6a8-11eb-8df9-ad45a104cd0a.png" width="35%" /></a> <a href="https://github.com/hitz-group/rn-receipt-printer-utils" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513048-81796b00-d6a8-11eb-8cf7-f98829f57a4d.png" width="35%" /></a>
 </pre>
 
 <!-- # Some of my own open source contributions
