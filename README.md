@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋 my self Lakshmaji, having experience in working on mobile, web and back-end applications / APIs.
 
 ## Frameworks or libraries or tools
 
