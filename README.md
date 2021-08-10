@@ -114,6 +114,7 @@ Hi there 👋 my self Lakshmaji, having experience in working on mobile, web and
 ![Blog Posts](https://user-images.githubusercontent.com/14037682/123518564-0aea6680-d6c4-11eb-8e4c-27e8cf900f45.gif)
 
 <!--  medium -->
+- [ESCPOS printing](https://lakshmaji.medium.com/receipt-printing-with-esc-pos-a-javascript-cross-platform-library-7110d7f7a1db)
 - [Understaning the concepts of Functions and Hoisting in javascript environment](https://lakshmaji.medium.com/functions-and-hoisting-using-javascript-in-day-to-day-routine-c28e1a931892)
 - [Using ES10 features of javascript in day to day routine](https://lakshmaji.medium.com/ecmascript-es10-using-javascript-in-day-to-day-routine-ec60ac9c375e)
 - [Using ES6 features of javascript in day to day routine](https://lakshmaji.medium.com/ecmascript-es6-using-javascript-in-day-to-day-routine-ab7f3f3c3236)
