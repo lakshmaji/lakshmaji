@@ -1,3 +1,21 @@
+### Hi there <a href="http://linkedin.com/in/lakshmajee/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Remix.js, Go
+- 📫 &nbsp;How to reach me: [@lakshmaji](http://linkedin.com/in/lakshmajee)
+- 👨‍💻 &nbsp;Read more about my projects at [http://linkedin.com/in/lakshmajee/](http://linkedin.com/in/lakshmajee)
+- 😄 Pronouns: He/Him
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="http://lakshmaji.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="lakshmaji" height="30" width="40" /></a>
+ <a href="https://dev.to/lakshmaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lakshmaji" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lakshmajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmaji" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4298526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4298526" height="30" width="40" /></a>
+
+ 
+
 <!-- ![ES 10  2019 (9)](https://user-images.githubusercontent.com/14037682/123513027-60b11580-d6a8-11eb-9c8d-1b7909b1f407.png) -->
 <!-- 
 ![ES 10  2019 (17)](https://user-images.githubusercontent.com/14037682/123513043-7b838a00-d6a8-11eb-8f86-3fa61e4c6d8a.png)
@@ -17,10 +35,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋 my self Lakshmaji, having experience in working on mobile, web and back-end applications / APIs.
+<!-- Hi there 👋 my self Lakshmaji, having experience in working on mobile, web and back-end applications / APIs. -->
 
-## Frameworks or libraries or tools
-
+ <details>
+  <summary>Frameworks or libraries or tools</summary>
+  
 ![react](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -37,38 +56,57 @@ Hi there 👋 my self Lakshmaji, having experience in working on mobile, web and
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-## Version control
+ </details>
+ 
+<details>
+ <summary>Version control</summary>
+ 
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ </details>
+ 
 
-
-## Programming Languages
+<details>
+ <summary>Programming Languages</summary>
+ 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+ </details>
 
-
-## DataBases
+<details>
+ <summary>DataBases</summary>
+ 
 ![AWS DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-## Cloud, Infra and CI/CD
+ </details>
+ 
+ <details>
+  
+  <summary> Cloud, Infra and CI/CD</summary>
+  
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![github actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![rabbitmq](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+ </details>
 
-## Servers
+<details>
+ <summary>Servers</summary>
+ 
 ![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+ </details>
 
-## OS
+ <details>
+  <summary>OS</summary>
+  
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![apple](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-
+ </details>
+  
 ## Blog
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://lakshmaji.medium.com)
 
@@ -80,9 +118,14 @@ Hi there 👋 my self Lakshmaji, having experience in working on mobile, web and
 [![hacker_earth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@lakshmajee88)
 
 
+ 
+ <details>
 
-![Open Source Contributions](https://user-images.githubusercontent.com/14037682/123518565-0de55700-d6c4-11eb-8650-349395ce56ad.gif)
-<pre>
+  <summary>
+    Open Source Contributions
+  </summary>
+  
+   <pre>
 <a href="https://github.com/hitz-group/xml-escpos-helper" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123518319-ffe30680-d6c2-11eb-9b5a-676fe8f26cb7.png" width="35%" /></a> <a href="https://github.com/anthonyjgrove/react-google-login" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513039-71fa2200-d6a8-11eb-8f3e-471695e6a8af.png" width="35%" /></a> <a href="https://github.com/hitz-group/dynamo-helper" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513044-7c1c2080-d6a8-11eb-8df9-ad45a104cd0a.png" width="35%" /></a> <a href="https://github.com/hitz-group/rn-receipt-printer-utils" target="_blank"><img src="https://user-images.githubusercontent.com/14037682/123513048-81796b00-d6a8-11eb-8cf7-f98829f57a4d.png" width="35%" /></a>
 </pre>
 
@@ -111,15 +154,5 @@ Hi there 👋 my self Lakshmaji, having experience in working on mobile, web and
 - [AWS DynamoDB helper](https://github.com/hitz-group/dynamo-helper)
 - [ReactNative thermal printer utils](https://github.com/hitz-group/rn-receipt-printer-utils) -->
 
-![Blog Posts](https://user-images.githubusercontent.com/14037682/123518564-0aea6680-d6c4-11eb-8e4c-27e8cf900f45.gif)
-
-<!--  medium -->
-- [ESCPOS printing](https://lakshmaji.medium.com/receipt-printing-with-esc-pos-a-javascript-cross-platform-library-7110d7f7a1db)
-- [Understaning the concepts of Functions and Hoisting in javascript environment](https://lakshmaji.medium.com/functions-and-hoisting-using-javascript-in-day-to-day-routine-c28e1a931892)
-- [Using ES10 features of javascript in day to day routine](https://lakshmaji.medium.com/ecmascript-es10-using-javascript-in-day-to-day-routine-ec60ac9c375e)
-- [Using ES6 features of javascript in day to day routine](https://lakshmaji.medium.com/ecmascript-es6-using-javascript-in-day-to-day-routine-ab7f3f3c3236)
-
-
-
-
-
+ </details>
+  
